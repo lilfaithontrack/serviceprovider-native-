@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "SP",
-    "slug": "SP",
+    "name": "Service Provider",
+    "slug": "service-provider",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
