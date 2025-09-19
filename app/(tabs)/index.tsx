@@ -10,7 +10,7 @@ import {
   ActivityIndicator,
 } from 'react-native';
 import { LinearGradient } from 'expo-linear-gradient';
-import { Package, MapPin, Clock, DollarSign, CheckCircle } from 'lucide-react-native';
+import { Package, MapPin, Clock, DollarSign, CircleCheck as CheckCircle } from 'lucide-react-native';
 import { useRouter } from 'expo-router';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { apiService } from '../../services/api';
